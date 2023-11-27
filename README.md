@@ -22,7 +22,7 @@ The `main.tf` file contains the Terraform configuration for the EC2 instance. Cu
 The .github/workflows/main.yml file defines the GitHub Actions workflow for deploying the EC2 instance.
 
 ## How to Use
-Clone the repository: git clone https://github.com/pavankumarindian/aws-ec2-terraform-github-actions.git.
+Clone the repository: git clone https://github.com/mohansai123/aws-ec2-github-actions.
 
 Set up AWS IAM user and obtain access key and secret key.
 
